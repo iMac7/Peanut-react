@@ -1,4 +1,4 @@
-Ready react components used with the Peanut Sdk
+React components to be used with the Peanut Sdk
 
 ## Run the project
 
